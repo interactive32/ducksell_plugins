@@ -6,6 +6,7 @@
 - BitPay integration
 - API plugin
 - Customer support
+- Customer Files
 - Blue customer area
 - Free product
 - Mailchimp intergration
